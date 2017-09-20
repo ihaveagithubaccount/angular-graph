@@ -1,0 +1,15 @@
+
+*/target/**
+bin/
+*.min.js
+*.min.css
+*.jar
+*.settings
+
+.project  
+.classpath
+.settings/
+target/
+
+*.css
+*css/fonts
